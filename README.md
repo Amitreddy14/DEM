@@ -61,14 +61,11 @@ The **Decentralized Energy Market (DEM)** leverages **smart contracts, federated
    npm run dev
    ```
 
-## 📜 License
-This project is open-source under the **MIT License**.
-
 ## 🤝 Contributing
 We welcome contributions! Feel free to open issues and submit pull requests.
 
 ## 📞 Contact
-For any queries, reach out via **[email@example.com](mailto:email@example.com)** or create an issue in the repo.
+For any queries, reach out via **[jsammureddy140804@gmail.com](jsammureddy140804@gmail.com)** or create an issue in the repo.
 
 🚀 **Join us in revolutionizing energy markets with decentralization!** ⚡
 
